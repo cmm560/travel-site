@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;700&display=swap');
+
+.montserrat { font-family: 'Bebas Neue', sans-serif; font-weight:400; }
+.montserrat-bold { font-family: 'Bebas Neue', sans-serif; font-weight: 600; }
+
+
+.oswald { font-family: 'Montserrat', sans-serif; font-weight:700; }
+
+.logo {
+    max-height: 150px;
+    padding: 20px;
+}
+
+.nav-link {
+    color: #6df4f2;
+}
+
+.nav-link:hover {
+    color: #e56d90;
+}
+
+
+
+body {
+    background-color: white;
+}
+
+.white-bg {
+    background-color: white;
+}
+
+.primary-color {
+    color: rgb(7, 0, 51);
+}
+
+.primary-color-light, nav .secondary-color-light:hover {
+    color: #403075
+}
+
+.accordion-button:not(.collapsed) {
+    color: #e56d90;
+    background-color: white;
+    font-size: 48px;
+}
+
+.primary-color-bg {
+    background-color: #403075;
+}
+
+.secondary-color-light {
+    color: #FFFFAA;
+}
+.secondary-color-bg {
+    background-color: #6df4f2;
+    font-size: 36px;
+}
+.secondary-color-light-bg {
+    background-color: #FFFFAA;
+}
+
+.owl-nav {
+    display: none;
+}
+
+.section-divider {
+    padding: 1rem;
+}
+
+.btn {
+    color:#e56d90;
+}
+.btn-outline-success {
+    color: #e56d90;
+}
+.gallery-img img {
+    object-fit: cover;
+    height: 20rem;
+    aspect-ratio:1 / 1; 
+}
+footer {
+    padding: 3rem;
+}
+
+.sectionheading {
+    font-family: 'Bebas Neue', sans-serif; 
+    font-weight:400;
+}

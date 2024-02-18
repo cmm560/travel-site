@@ -1,0 +1,74 @@
+{
+    "title":"Local's Life",
+    "slideshow":[
+        "/img/slides/view.jpg",
+        "/img/slides/beach1.jpg",
+        "/img/slides/lisbon.jpg"
+    ],
+    "services":[
+        {
+            "title":"Fado Music",
+            "intro":"Lisbon is famous for its melancholic music style, Fado. Ask locals about their favorite Fado artists, venues, and what emotions this music evokes for them.",
+            "lists":[
+                "Concerts: The trams in Lisbon are, not only one of the most useful means of transport to get around the city, but also one of the city’s most popular tourist attractions.",
+                "Shows: The Lisbon Metro is one of the most beautiful and best cared for in Europe: a great way to get to the center from the surrounding areas.",
+                "Locals: Like the vintage streetcars that run in Portugal’s capital, this Lift is not only a convenient means of transportation but has also become a popular tourist attraction. (https://www.lisbon.net)"
+            ],
+            "image":"/img/homepage/transport.jpg"
+        },
+        {
+            "title":"Tours",
+            "intro":"There are many tour types to choose from, especially in Lisbon! Here are a few of the top choices:",
+            "lists":[
+                "Tuk-tuk Tour: The historic center of Lisbon is the city’s most atmospheric district, but its narrow lanes and steep hills can be tiring to navigate on foot. On this tour, save time and travel further in the comfort of an electric tuk-tuk. As well as being a fun way to explore the city, it’s a convenient and eco-friendly way to take in neighborhoods such as Alfama, Graça, and Mouraria, stopping along the way to admire the views and see the sights. (https://www.viator.com/tours/Lisbon/Lisbon-2-Hour-Historical-Private-Guide-Tuk-Tuk-Tour/d538-46630P11?m=28353&supag=76382119171&supca=1939178107&supsc=dsa-649086883411&supai=660585468231&supdv=c&supnt=g&suplp=9011908&supli=&supti=dsa-649086883411&tsem=true&supci=dsa-649086883411&supap1=&supap2=&gad_source=1&gclid=CjwKCAjw-eKpBhAbEiwAqFL0mh_cGhEQyE7UMW13zN3BacWNAbghgf_AJatfbQ4FCOzvsmfFs3VWrBoCQ2IQAvD_BwE)",
+                "Walking Tour: Walking with a local is a great way to immerse yourself in a city like Lisbon's culture and vibes! You can sign up online through sites like GetYourGuide and other similar sites to browse different walking options.",
+                "Tram Tour: Travel through time aboard one of Lisbon's oldest means of transport, a vintage tramcar, discover the very first quarters of the city, and unveil the 7 Hills from Alfama to Bairro Alto, where Fado also found its inspiration. Enjoy some of the city's most unforgettable landmarks, such as São Jorge Castle, the Sé (Lisbon Cathedral) and Estrela Basilica, and be delighted by the the views of Portas do Sol viewpoint showing the perception of the city from Alfama. Then head to Chiado in the heart of Lisbon, where you can see the famous coffee shop A Brasileira and where you have at your disposal several shops if you like shopping and enjoy the alternative and artistic quarter of Bairro Alto, one of the most iconic nightlife spots in Lisbon.(https://www.viator.com/tours/Lisbon/Lisbon-Hop-On-Hop-Off-Tour-by-Tram/d538-5391LISTRAM?m=28353&supag=68732031537&supca=1939178107&supsc=dsa-647350163696&supai=660585468360&supdv=c&supnt=g&suplp=9011908&supli=&supti=dsa-647350163696&tsem=true&supci=dsa-647350163696&supap1=&supap2=&gad_source=1&gclid=CjwKCAjw-eKpBhAbEiwAqFL0moQJn4T7eod_fV03IJO3PnMzhwcWuGJg8m3eL_gbJIcsg_VKtLLUIBoCEpUQAvD_BwE)"
+            ],
+            "image":"/img/homepage/tours.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Neighborhoods",
+            "image":"/img/homepage/houses.jpg",
+            "text":"Explore Lisbon's diverse neighborhoods, from historic Alfama to trendy Bairro Alto. Inquire about their experiences living in or visiting different areas of the city.",
+            "price":"Amazing sights!",
+            "duration":"Call +1-(723)235-3647 to find a local tour guide."
+        },
+        {
+            "title":"Daily Routines",
+            "image":"/img/homepage/notes.jpg",
+            "text":"Ask about daily life in Lisbon, from work hours to leisure activities. Discuss how they balance work, family, and social life.",
+            "price":"Go to local coffee shops and bars and engage with the locals.",
+            "duration":"Some include (unique to them): fishing, drinking on the streets, dancing"
+        },
+        {
+            "title":"Local History:",
+            "image":"/img/homepage/loc.jpg",
+            "text":"Explore Lisbon's history, from the Age of Discoveries to contemporary politics. Inquire about their thoughts on the city's evolving identity.",
+            "price":"Lisbon's rich history all in one tour!",
+            "duration":"Call: +1 (792)205-3094 for more info." 
+        },
+        {
+            "title":"Outdoor Activities",
+            "image":"/img/homepage/surf.jpg",
+            "text":"Learn about locals' favorite outdoor pursuits, such as hiking in Sintra, surfing in nearby beaches, or simply enjoying the city's parks and viewpoints.",
+            "price":"Activities:",
+            "duration":"Cycling, Jogging, Running, Surfing, Rock Climbing"
+        },
+        {
+            "title":"Sustainable Practices",
+            "image":"/img/homepage/rec.jpg",
+            "text":"Talk about Lisbon's efforts toward sustainability, from recycling programs to eco-friendly initiatives and how locals are involved.",
+            "price":"Reduce, Reuse, Recycle!",
+            "duration":"Call: +1 (792)205-3094 for more info."
+        },
+        {
+            "title":"Challenges",
+            "image":"/img/homepage/env.jpg",
+            "text":"Encourage locals to share their perspectives on challenges and issues they face in daily life, from housing costs to transportation woes or environmental concerns.",
+            "price":"Talk about: climate change, housing costs to transportation woes or environmental concerns.",
+            "duration":"Where? Bars, Restaurants, the Streets."
+        }
+    ]
+}

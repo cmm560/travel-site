@@ -1,0 +1,74 @@
+{
+    "title":"Welcome to Lisbon - Here Are Some Great Ways To Start Your Journey:",
+    "slideshow":[
+        "/img/slides/view.jpg",
+        "/img/slides/beach1.jpg",
+        "/img/slides/lisbon.jpg"
+    ],
+    "services":[
+        {
+            "title":"Transportation",
+            "intro":"The Lisbon transport network works smoothly, although at times it could benefit from a higher frequency of service, it is relatively punctual. The major means of transport in Lisbon are:",
+            "lists":[
+                "Tram: The trams in Lisbon are, not only one of the most useful means of transport to get around the city, but also one of the city’s most popular tourist attractions.",
+                "Metro: The Lisbon Metro is one of the most beautiful and best cared for in Europe: a great way to get to the center from the surrounding areas.",
+                "Santa Justa Lift: Like the vintage streetcars that run in Portugal’s capital, this Lift is not only a convenient means of transportation but has also become a popular tourist attraction. (https://www.lisbon.net/transport?_gl=1*eeivlf*_up*MQ..*_ga*NjU5NTYxOTQ0LjE2OTgzMDEzNjQ.*_ga_JS7NJG41ZX*MTY5ODMwMTM2My4xLjAuMTY5ODMwMTM2My4wLjAuMA..*_ga_216706797*MTY5ODMwMTM2My4xLjAuMTY5ODMwMTM2My4wLjAuMA..#)"
+            ],
+            "image":"/img/homepage/transport.jpg"
+        },
+        {
+            "title":"Tours",
+            "intro":"There are many tour types to choose from, especially in Lisbon! Here are a few of the top choices:",
+            "lists":[
+                "Tuk-tuk Tour: The historic center of Lisbon is the city’s most atmospheric district, but its narrow lanes and steep hills can be tiring to navigate on foot. On this tour, save time and travel further in the comfort of an electric tuk-tuk. As well as being a fun way to explore the city, it’s a convenient and eco-friendly way to take in neighborhoods such as Alfama, Graça, and Mouraria, stopping along the way to admire the views and see the sights. (https://www.viator.com/tours/Lisbon/Lisbon-2-Hour-Historical-Private-Guide-Tuk-Tuk-Tour/d538-46630P11?m=28353&supag=76382119171&supca=1939178107&supsc=dsa-649086883411&supai=660585468231&supdv=c&supnt=g&suplp=9011908&supli=&supti=dsa-649086883411&tsem=true&supci=dsa-649086883411&supap1=&supap2=&gad_source=1&gclid=CjwKCAjw-eKpBhAbEiwAqFL0mh_cGhEQyE7UMW13zN3BacWNAbghgf_AJatfbQ4FCOzvsmfFs3VWrBoCQ2IQAvD_BwE)",
+                "Walking Tour: Walking with a local is a great way to immerse yourself in a city like Lisbon's culture and vibes! You can sign up online through sites like GetYourGuide and other similar sites to browse different walking options.",
+                "Tram Tour: Travel through time aboard one of Lisbon's oldest means of transport, a vintage tramcar, discover the very first quarters of the city, and unveil the 7 Hills from Alfama to Bairro Alto, where Fado also found its inspiration. Enjoy some of the city's most unforgettable landmarks, such as São Jorge Castle, the Sé (Lisbon Cathedral) and Estrela Basilica, and be delighted by the the views of Portas do Sol viewpoint showing the perception of the city from Alfama. Then head to Chiado in the heart of Lisbon, where you can see the famous coffee shop A Brasileira and where you have at your disposal several shops if you like shopping and enjoy the alternative and artistic quarter of Bairro Alto, one of the most iconic nightlife spots in Lisbon.(https://www.viator.com/tours/Lisbon/Lisbon-Hop-On-Hop-Off-Tour-by-Tram/d538-5391LISTRAM?m=28353&supag=68732031537&supca=1939178107&supsc=dsa-647350163696&supai=660585468360&supdv=c&supnt=g&suplp=9011908&supli=&supti=dsa-647350163696&tsem=true&supci=dsa-647350163696&supap1=&supap2=&gad_source=1&gclid=CjwKCAjw-eKpBhAbEiwAqFL0moQJn4T7eod_fV03IJO3PnMzhwcWuGJg8m3eL_gbJIcsg_VKtLLUIBoCEpUQAvD_BwE)"
+            ],
+            "image":"/img/homepage/tours.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Beach Day",
+            "image":"/img/homepage/beach.jpg",
+            "text":"A beach day in Lisbon is a sun-soaked escape to some of the most stunning shores in Europe. Just a short drive or train ride from the bustling city center, the pristine beaches of Cascais and Estoril await. With golden sands that stretch for miles and the sparkling Atlantic Ocean as your backdrop, these coastal havens offer the perfect setting for relaxation and recreation. Whether you're catching waves at Guincho Beach, sipping a cool drink at a beachfront café, or simply sunbathing, the beaches of Lisbon provide a serene retreat from the urban hustle and bustle. The gentle sea breeze and the sound of waves lapping the shore create a soothing ambiance that makes every beach day in Lisbon a truly rejuvenating experience.",
+            "price":"Free for All",
+            "duration":"Best Season: Summer"
+        },
+        {
+            "title":"City Day",
+            "image":"/img/gallery/gallery_16.jpg",
+            "text":"A city day in Lisbon is a captivating journey through the heart of Portugal's vibrant capital. From the moment the sun kisses the historic cobblestone streets of Alfama to the evening's Fado music echoing through intimate taverns, Lisbon offers a sensory feast for travelers. Start the day with a stroll along the Tagus River, taking in the panoramic views from the historic Belém Tower. Explore the city's rich history at the Jerónimos Monastery, a UNESCO World Heritage site, and indulge in delectable Pastéis de Belém pastries. Meander through the colorful streets of Alfama, a maze of narrow alleys and charming plazas, where the scent of grilled sardines wafts through the air. Lisbon's unique blend of old-world charm and contemporary energy makes every city day an unforgettable experience.",
+            "price":"Free",
+            "duration":"1 Day"
+        },
+        {
+            "title":"Boat Day",
+            "image":"/img/gallery/gallery_10.jpg",
+            "text":"Escape the crowds on land and get the best views of Lisbon’s skyline from the water during a sunset cruise that reveals the city at its most magical. An open-air boat ensures you get unobstructed photos of top Lisbon landmarks, while onboard commentary provides historical and cultural info that you’re unlikely to find in the guidebook. (TripAdvisor)",
+            "price":"$30",
+            "duration":"3 hour"
+        },
+        {
+            "title":"Half Day Tuk-Tuk Tour",
+            "image":"/img/gallery/gallery_11.jpg",
+            "text":"If you’re visiting Lisbon for the first time, orient yourself in Portugal’s capital city with ease during a half-day sightseeing tour that proves ideal for first-time visitors. Letting someone else drive gives you more time to enjoy the scenery, while the local knowledge of a guide ensures that you get the inside scoop on Lisbon’s culture and history. (TripAdvisor)",
+            "price":"$100",
+            "duration":"6 hours"
+        },
+        {
+            "title":"Lisbon Food and Wine Tour",
+            "image":"/img/homepage/tour.jpg",
+            "text":"Uncover Lisbon's culture and cuisine while you walk around two of its neighborhoods during this excursion. Join a small group to explore the neighborhoods of Baixa and Mouraria, wandering their back streets in search of delicious Portuguese fare. Stop at several locations for tastings, including VIP access to a local fado house RUN by a michelin-starred chef and learn about the international influence of Portuguese food (TripAdvisor)",
+            "price":"$106",
+            "duration":"1 Day"
+        },
+        {
+            "title":"Sintra Full Day Tour",
+            "image":"/img/homepage/sintra.jpg",
+            "text":"the mountain city of Sintra is known for its opulent palaces. Hit the highlights direct from your hotel on this private guided tour. Tour the Park and National Palace of Pena; explore the surreal underground landscapes of Quinta da Regaleira; see Europe’s westernmost point, Cabo de Roca; and stroll seaside Cascais. Standard tour excludes entry fees. (TripAdvisor)",
+            "price":"$50",
+            "duration":"1 Day"
+        }
+    ]
+}

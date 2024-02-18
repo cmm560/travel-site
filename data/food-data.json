@@ -1,0 +1,75 @@
+{
+    "title":"Foods and Drinks Around Lisbon",
+    "slideshow":[
+        "/img/slides/view.jpg",
+        "/img/slides/beach1.jpg",
+        "/img/slides/lisbon.jpg"
+    ],
+    "services":[
+        {
+            "title":"Food",
+            "intro":"The Top 3 Foods To Try in Lisbon!",
+            "lists":[
+                "Pastéis De Nata: Popular around the world (especially in former Portuguese colonies like Macau and Mozambique), Pastéis de Nata are eggy custard tarts notable for their bright yellow color and creamy texture. Monks invented Pastéis de Nata in Belém centuries ago, but they’re as relevant today as they were when crafty clergymen concocted the heavenly Portuguese desserts.",
+                "Piri Piri Chicken: Portuguese cuisine features spices introduced to Europe when Portugal was busy colonizing near and far parts of the world. Piri Piri Chicken is a great example of this phenomenon, blending global flavors from former African colonies with local Portuguese products.",
+                "Chouriço: Less spicy than its Spanish cousin, Chouriço is a popular Portuguese sausage subtly flavored with paprika. Lisbon locals eat this versatile meat as a snack and also use it as an ingredient when cooking. (https://www.2foodtrippers.com/what-to-eat-in-lisbon/)"
+            ],
+            "image":"/img/homepage/pastry.jpg"
+        },
+        {
+            "title":"Drinks",
+            "intro":"The Top 3 Drinks To Try in Lisbon!",
+            "lists":[
+                "Vinho Verde: This wine was one of the first Portuguese wines exported to European markets. In the sixteenth and seventeenth centuries the wines from the Minho Valley and the Lima Valley were regularly transported to northern Europe in the same boats that brought bacalhau (salt cod) and manufactured products. (https://www.vinhoverde.pt/en/history-of-vinho-verde#:~:text=Vinho%20Verde&text=were%20the%20first%20Portuguese%20wines,salt%20cod)%20and%20manufactured%20products.)",
+                "Cherry Shots: Trying ginjinha in Lisbon is a travel must. Also known as ginja, this is a sweet liqueur made from Morello (sour) cherries soaked in a distilled spirit called aguardente. The mixture is flavored with sugar and spices like cinnamon. It is deceptively sweet, small, and packs a punch. (https://devourtours.com/blog/ginjinha-lisbon/?cnt=US#:~:text=Trying%20ginjinha%20in%20Lisbon%20is,small%2C%20and%20packs%20a%20punch.)",
+                "Licor Beirão: Licor Beirão, also known in short simply as Beirão, advertises itself as “Portugal’s liquer”. It may not be the liquer, but it certainly is one of the most popular ones. The name speaks of the origins of this distilled drink, in the Beiras region of Portugal. If you are a fan of sweet drinks, the secret mix of herbs, cinnamon, mint, lavender, rosemary, and cardamom you will find in Beirão is sure to tickle your fancy. Licor Beirão can be downed as it is but, because of its intensely sweet nature, it goes well with plenty of ice. (https://www.tasteoflisboa.com/blog/10-typical-drinks-from-portugal/)"
+            ],
+            "image":"/img/homepage/greenwine.jpg"
+        }
+    ],
+
+    "packages":[
+        {
+            "title":"Bacalhau (cod) ",
+            "image":"/img/homepage/cod.jpg",
+            "text":"Bacalhau, or dried and salted cod, is one of the most popular local foods in Lisbon. The dish has a long history, dating back to when the Portugese explorers ate preserved fish while sailing around the world. It’s still one of the most iconic things to eat while in Portugal, but there is a variety of ways to try the local cod.",
+            "price":"Average Price:",
+            "duration":"$15-20"
+        },
+        {
+            "title":"Ameijoas a bulhao pato (clams with sauce)",
+            "image":"/img/homepage/clams.jpg",
+            "text":"Ameijoas a bulhao pato is one of the most popular seafood appetisers in Lisbon. The clam dish is named after the 19th-century Portugese writer Raimundo Antonio de Bulhao Pato, who lived around Lisbon and often raved about the meal. The dish is made up of clams cooked in a sauce that consists of clam juice or lemon juice, white wine, garlic, and olive oil.",
+            "price":"Average Price:",
+            "duration":"$20"
+        },
+        {
+            "title":"Bifanas (Portugese pork sandwich)",
+            "image":"/img/homepage/pork.jpg",
+            "text":"The bifana is one of the most common street foods in Portugal. This pork sandwich can be found at virtually every street food cart or stall in the city. While quite simple, it’s full of flavor – thin slices of pork are marinated in white wine and lots of garlic before being fried and stuffed in a crusty bun.",
+            "price":"Average Price:",
+            "duration":"$5-10"
+        },
+        {
+            "title":"Sardinhas (sardines)",
+            "image":"/img/homepage/sardines.jpg",
+            "text":"Sardinhas (sardines) is one of Lisbon’s favorite seafood dishes. They are freshest in mid-June, which is also when Lisbon celebrates the Feast of St Anthony Sardine Festival. Expect a fun day filled with live music, vibrant parties, and sardine food stalls during this time of the year.",
+            "price":"Average Price:",
+            "duration":"$5-10"
+        },
+        {
+            "title":"Caldo verde (green soup)",
+            "image":"/img/homepage/soup.jpg",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea ratione, enim assumenda quos,(https://www.hotels.com/go/portugal/best-local-dishes-lisbon)",
+            "price":"Average Price:",
+            "duration":"$5-10"
+        },
+        {
+            "title":"Licor Beirão",
+            "image":"/img/homepage/alc.jpg",
+            "text":"Licor Beirão, also known in short simply as Beirão, advertises itself as “Portugal’s liquer”. It may not be the liquer, but it certainly is one of the most popular ones. (https://www.tasteoflisboa.com/blog/10-typical-drinks-from-portugal/)",
+            "price":"Average Bottle Price:",
+            "duration":"$12-20"
+        }
+    ]
+}

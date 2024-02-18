@@ -1,0 +1,74 @@
+{
+    "title":"Lisbon's Late-Night Culture",
+    "slideshow":[
+        "/img/slides/view.jpg",
+        "/img/slides/beach1.jpg",
+        "/img/slides/lisbon.jpg"
+    ],
+    "services":[
+        {
+            "title":"Night Culture",
+            "intro":"The Lisbon transport network works smoothly, although at times it could benefit from a higher frequency of service, it is relatively punctual. The major means of transport in Lisbon are:",
+            "lists":[
+                "Fado Music: Lisbon is the home of Fado, a soulful and melancholic music genre. Many venues, especially in the Alfama district, offer authentic Fado performances, providing a traditional and emotional experience.",
+                "Bairro Alto: This historic neighborhood is the epicenter of Lisbon's nightlife. Its narrow streets are filled with a wide variety of bars, clubs, and restaurants, offering everything from live music to DJ sets.",
+                "Rooftop Bars: Lisbon's hilly terrain provides numerous opportunities for rooftop bars with stunning panoramic views of the city and the Tagus River. Enjoy a cocktail while taking in the picturesque scenery."
+            ],
+            "image":"/img/homepage/bar.jpg"
+        },
+        {
+            "title":"Diverse Music Scene",
+            "intro":"There are many music types to choose from, especially in Lisbon! Here are a few of the top choices:",
+            "lists":[
+                "Traditional Portuguese Fado: The historic center of Lisbon is the city’s most atmospheric district, but its narrow lanes and steep hills can be tiring to navigate on foot. On this tour, save time and travel further in the comfort of an electric tuk-tuk. As well as being a fun way to explore the city, it’s a convenient and eco-friendly way to take in neighborhoods such as Alfama, Graça, and Mouraria, stopping along the way to admire the views and see the sights.",
+                "Electronic: Walking with a local is a great way to immerse yourself in a city like Lisbon's music and vibes! Electronic music is very widely listened to at clubs and bars.",
+                "Rock: Lisbon has a thriving rock music scene with a rich history and a diverse range of rock subgenres, from classic rock to alternative and indie rock."
+            ],
+            "image":"/img/homepage/rock.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Mix of Local and Tourists",
+            "image":"/img/homepage/ppl.jpg",
+            "text":"Lisbon's nightlife scene attracts both locals and tourists, creating a lively and cosmopolitan atmosphere. It's a great place to meet people from around the world.",
+            "price":"Good vibes only in the dark!",
+            "duration":"Lisbon is known for its late-night culture. Many bars, clubs, and restaurants stay open well into the early hours of the morning, creating a lively atmosphere that caters to night owls."
+        },
+        {
+            "title":"Rooftop Bars",
+            "image":"/img/homepage/rooftop.jpg",
+            "text":"Lisbon just so happens to have many rooftop bars for those of us that like a hawkeye view.",
+            "price":"Lisbon's hilly terrain provides numerous opportunities for rooftop bars with stunning panoramic views of the city and the Tagus River.",
+            "duration":"Enjoy a cocktail while taking in the picturesque scenery."
+        },
+        {
+            "title":"Street Parties and Festivals",
+            "image":"/img/homepage/street.jpg",
+            "text":"Lisbon hosts various street parties and festivals throughout the year.",
+            "price":" The Lisbon Festas (Festas de Lisboa) in June, for instance, includes parades, concerts, and a lively atmosphere in the streets.",
+            "duration":"Afforable tickets found on TripAdvisor."
+        },
+        {
+            "title":"Underground Clubs",
+            "image":"/img/homepage/club.jpg",
+            "text":"The city's underground club scene is growing, offering an alternative and more edgy nightlife experience. Lisbon's nightlife offers something for everyone, from those seeking an intimate Fado performance to those looking for a lively club scene. The city's unique blend of tradition and modernity creates an unforgettable nightlife experience.",
+            "price":"These venues often host techno, house, and electronic music events.",
+            "duration":"Top Clubs: Lux Fragil, Noir Clubbing, Groove Bar"
+        },
+        {
+            "title":"Casinos",
+            "image":"/img/homepage/casino.jpg",
+            "text":"Lisbon boasts several top casinos.",
+            "price":"Top two casinos would be Casino Lisboa and Casino Estoril.",
+            "duration":"You can try your luck at games of chance and enjoy live entertainment."
+        },
+        {
+            "title":"Alfresco Dining",
+            "image":"/img/homepage/dine.jpg",
+            "text":"Many bars and restaurants offer alfresco dining and drinking. ",
+            "price":"Whether you're savoring fresh seafood by the waterfront, indulging in traditional Portuguese cuisine in an outdoor cafe, or enjoying international flavors on a charming terrace, alfresco dining in Lisbon allows you to immerse yourself in the city's vibrant atmosphere",
+            "duration":"The combination of delicious food, local wines, and picturesque surroundings, from historic neighborhoods to seaside views, creates a dining experience that embodies the essence of Lisbon's Mediterranean lifestyle, where every meal becomes an opportunity to appreciate the city's beauty and rich culinary traditions."
+        }
+    ]
+}

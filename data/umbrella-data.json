@@ -1,0 +1,73 @@
+{
+    "title":"Welcome to Lisbon's Umbrella Street - Here's Everything You Need To Know!",
+    "slideshow":[
+        "/img/slides/view.jpg",
+        "/img/slides/beach1.jpg",
+        "/img/slides/lisbon.jpg"
+    ],
+    "services":[
+        {
+            "title":"Bars",
+            "intro":"Lisbon's famous Umbrella/Pink Street is known for its many good bars. Here's a list of a few to try:",
+            "lists":[
+                "The Music Box: Music-loving locals all know about the Music Box, and it doesn’t take long before expat residents learn of it too. This is a popular concert venue and nightclub that hosts a variety of music, including many up-and-coming Portuguese bands. You can find the entrance underneath the colorful bridge that separates Pink Street’s two sides, across from Pink Wine Point.",
+                "Pink Wine Point: Across the way from The Music Box is another entrance, this one leading into the stylish Pink Wine Point, a cozy cavern-like bar where you can order wine in addition to a plethora of cocktail combinations. Visit with friends for drinks and live music on the weekends. Unlike The Music Box, Pink Wine Point is the place to go for a relaxing but fun night, in an equally lovely setting.",
+                "Pensão Amor: At one point or another, every bar-hopper in Lisbon has visited Pensão Amor, at least to see the bold decor, if not for the drinks and socializing. Once a brothel, it comprises different rooms filled with bright decor, cushy seating, unique art, and a dancer’s pole. There is even a ‘library’ filled with erotic books. The back entrance opens to Pink Street, but entering from the front entrance at Rua Alecrim is much more impressive – the front room is decorated from floor to ceiling in bright colors and shocking artwork (the ceiling is even a work of art). (https://theculturetrip.com/europe/portugal/articles/the-best-bars-and-clubs-on-lisbons-pink-street)"
+            ],
+            "image":"/img/homepage/alc.jpg"
+        },
+        {
+            "title":"Events",
+            "intro":"There is always something exciting happening in Lisbon, with the Pink Street being its hot spot for fun. Here are a couple fun events happening this year:",
+            "lists":[
+                "Pink Street Party: August 1-3rd",
+                "Lisbon Beer Week: July 6th-8th"
+            ],
+            "image":"/img/homepage/umb.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"History",
+            "image":"/img/homepage/his.jpg",
+            "text":"In bygone days, this hotbed of Lisbon nightlife was home to Lisbon’s “red light district,” loaded with brothels, gambling halls, not-so-swanky bars, and less-than-savory clientele. But in 2011, gentrification of the street began. The road itself was painted bright pink creating the feeling of a magical space. Over the years, the rough old establishments have been replaced by modernized restaurants, inviting bars, and a whole new vibe. A swath of colorful umbrellas overhead creates a photographer’s delight during the day when just a few places are open and the area is generally quiet. But nighttime is the right time to visit if you’re looking for action and options. When the sun goes down, Lisbon’s Pink Street lights up like one big Portuguese festa (“party”).",
+            "price":"Year Made:",
+            "duration":"2013"
+        },
+        {
+            "title":"Where",
+            "image":"/img/homepage/where.jpg",
+            "text":"It’s time to understand where Pink Street is. In order to find this quirky corner of Lisbon, you should point your GPS to Rua Nova do Carvalho. This is the actual name of Pink Street. If you ask locals, everybody knows where pink streets are. This street is also known as Cais de Sodré. The name behind this street comes from an English Family, the Sodré which had their sea business in Lisbon. And Cais means harbour.",
+            "price":"Address:",
+            "duration":"R. Nova do Carvalho 1200-370 Lisboa, Portugal"
+        },
+        {
+            "title":"Lost?",
+            "image":"/img/homepage/umb.jpg",
+            "text":"If you can't find the street, ask locals where 'Rua Cor-de-Rosa' is. Locals refer to the street as Rua Cor-de-Rosa.",
+            "price":"Why Rua Cor-de-Rosa?",
+            "duration":"Means 'Pink Street' in Portugeuse"
+        },
+        {
+            "title":"Time Out Market",
+            "image":"/img/homepage/market.jpg",
+            "text":"This was one of the best places we discovered in Lisbon. The Time Out Market in Lisbon is the ideal place for food lovers. Opened by the famous Time Out, has been open since 2014, taking the food scene of Lisbon to another level.",
+            "price":"Must-Try",
+            "duration":"Rated Highly"
+        },
+        {
+            "title":"Time to Arrive",
+            "image":"/img/homepage/night.jpg",
+            "text":"The night is the ideal time for bars and mingling with the tourists and locals that hang out on this street. And for that so needed Insta flick.",
+            "price":"Time:",
+            "duration":"8-9PM"
+        },
+        {
+            "title":"Elevador da Bica",
+            "image":"/img/homepage/ele.jpg",
+            "text":"As you might understand, we love the transportation system in Lisbon. It has this retro touch that is gorgeous. The Elevador da Bica is one of the two funiculars in Lisbon. It’s the best in our opinion. Our accommodation was just in front of the direct access, and we have seen this pretty funicular going up and down for days. It was always outstanding. The view is insane and is the best way to get to the Miradouro of Santa Luzia.",
+            "price":"Address:",
+            "duration":"Rua de S. Paulo 234, 1200-109 Lisboa, Portugal"
+        }
+    ]
+}
